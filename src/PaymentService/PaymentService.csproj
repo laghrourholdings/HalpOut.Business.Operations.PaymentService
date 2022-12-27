@@ -18,9 +18,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Implementations" />
-      <Folder Include="Signals" />
-      <Folder Include="Slots" />
+      <Folder Include="ServiceBus\Consumer Contracts" />
     </ItemGroup>
 
 
