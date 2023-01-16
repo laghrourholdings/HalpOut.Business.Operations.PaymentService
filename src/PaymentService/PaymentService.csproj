@@ -17,9 +17,5 @@
         <ProjectReference Include="..\..\..\CommonLibrary\src\CommonLibrary.AspNetCore\CommonLibrary.AspNetCore.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="ServiceBus\Consumer Contracts" />
-    </ItemGroup>
-
 
 </Project>
